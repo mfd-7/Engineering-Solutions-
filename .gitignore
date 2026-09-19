@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Environment & Credentials
+.env
+.env.local
+.env.*.local
+db.sqlite3
+
+# Vercel & Editor
+.vercel/
+.vscode/
+.idea/
+*.log

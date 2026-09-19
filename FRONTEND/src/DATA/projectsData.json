@@ -1,0 +1,205 @@
+﻿{
+    "value":  [
+                  {
+                      "id":  10,
+                      "images":  [
+                                     {
+                                         "id":  31,
+                                         "image":  "/images/sprinklers.jpg",
+                                         "caption":  "Main View"
+                                     }
+                                 ],
+                      "title":  "Ha-Meem Denim Mega Textile Mills",
+                      "category":  "Fire Safety",
+                      "client":  "Ha-Meem Group",
+                      "location":  "Mawna, Gazipur",
+                      "scope":  "Full Accord / Alliance Compliant Fire Alarm \u0026 Intelligent Sprinkler Retrofit covering 450,000 sq.ft manufacturing floor.",
+                      "year":  "2019",
+                      "image":  "/images/sprinklers.jpg",
+                      "featured":  true,
+                      "highlight":  "Accord / Alliance Certified",
+                      "created_at":  "2026-09-17T08:32:00.613766Z"
+                  },
+                  {
+                      "id":  9,
+                      "images":  [
+                                     {
+                                         "id":  32,
+                                         "image":  "/images/lpg.jpg",
+                                         "caption":  "Main View"
+                                     }
+                                 ],
+                      "title":  "PRAN-RFL Agro Industrial Park",
+                      "category":  "LPG Systems",
+                      "client":  "PRAN Agro Ltd.",
+                      "location":  "Habiganj, Sylhet",
+                      "scope":  "Turnkey Centralized LPG Line for bakery ovens and steam generators, compliant with Department of Explosives Bangladesh.",
+                      "year":  "2023",
+                      "image":  "/images/lpg.jpg",
+                      "featured":  false,
+                      "highlight":  "Explosives Dept. Certified LPG",
+                      "created_at":  "2026-09-17T08:32:00.610768Z"
+                  },
+                  {
+                      "id":  8,
+                      "images":  [
+                                     {
+                                         "id":  33,
+                                         "image":  "/images/generator.jpg",
+                                         "caption":  "Main View"
+                                     }
+                                 ],
+                      "title":  "Meghna Industrial Park Power \u0026 Chemical Units",
+                      "category":  "Mechanical",
+                      "client":  "Meghna Group of Industries (MGI)",
+                      "location":  "Sonargaon, Narayanganj",
+                      "scope":  "High Pressure Steam Piping, ASME Boiler Feed Pumps, and Industrial Expansion Joint Mechanical Erection.",
+                      "year":  "2022",
+                      "image":  "/images/generator.jpg",
+                      "featured":  true,
+                      "highlight":  "High Pressure Steam Piping",
+                      "created_at":  "2026-09-17T08:32:00.608770Z"
+                  },
+                  {
+                      "id":  7,
+                      "images":  [
+                                     {
+                                         "id":  34,
+                                         "image":  "/images/valves.jpg",
+                                         "caption":  "Main View"
+                                     }
+                                 ],
+                      "title":  "ACI Godrej Agrovet Feed Mills",
+                      "category":  "Fire Safety",
+                      "client":  "ACI Godrej Ltd.",
+                      "location":  "Rajshahi \u0026 Sirajganj",
+                      "scope":  "External Yard Hydrant Network, Fire Standpipe System, and Heavy Diesel Driven Fire Fighting Pump installation.",
+                      "year":  "2018",
+                      "image":  "/images/valves.jpg",
+                      "featured":  false,
+                      "highlight":  "Heavy Diesel Fire Pump",
+                      "created_at":  "2026-09-17T08:32:00.606766Z"
+                  },
+                  {
+                      "id":  6,
+                      "images":  [
+                                     {
+                                         "id":  35,
+                                         "image":  "/images/lpg.jpg",
+                                         "caption":  "Main View"
+                                     }
+                                 ],
+                      "title":  "Bashundhara Multi Food \u0026 Beverage Facility",
+                      "category":  "LPG Systems",
+                      "client":  "Bashundhara Group",
+                      "location":  "Meghna Ghat, Narayanganj",
+                      "scope":  "Commercial LPG Vaporizer \u0026 Manifold Network with auto shut-off solenoid valves and 24/7 gas pressure monitoring.",
+                      "year":  "2023",
+                      "image":  "/images/lpg.jpg",
+                      "featured":  true,
+                      "highlight":  "LPG Vaporizer \u0026 Auto Shut-off",
+                      "created_at":  "2026-09-17T08:32:00.604755Z"
+                  },
+                  {
+                      "id":  5,
+                      "images":  [
+                                     {
+                                         "id":  36,
+                                         "image":  "/images/boiler.jpg",
+                                         "caption":  "Main View"
+                                     }
+                                 ],
+                      "title":  "Akij Ceramics Industrial Complex",
+                      "category":  "Mechanical",
+                      "client":  "Akij Group",
+                      "location":  "Trishal, Mymensingh",
+                      "scope":  "Heavy Industrial Steam Boiler installation (10 Ton/hr capacity), condensate recovery line, and boiler water softening system.",
+                      "year":  "2021",
+                      "image":  "/images/boiler.jpg",
+                      "featured":  false,
+                      "highlight":  "10 Ton/hr Steam Boiler",
+                      "created_at":  "2026-09-17T08:32:00.602233Z"
+                  },
+                  {
+                      "id":  4,
+                      "images":  [
+                                     {
+                                         "id":  37,
+                                         "image":  "/images/suppression.jpg",
+                                         "caption":  "Main View"
+                                     }
+                                 ],
+                      "title":  "Square Pharmaceuticals API \u0026 Formulation Plants",
+                      "category":  "Fire Safety",
+                      "client":  "Square Pharmaceuticals Ltd.",
+                      "location":  "Kaliakoir, Gazipur",
+                      "scope":  "NFPA 15 Water Spray Fixed Deluge System for solvent storage tanks and FM-200 Clean Agent Gas Suppression for server rooms.",
+                      "year":  "2020",
+                      "image":  "/images/suppression.jpg",
+                      "featured":  true,
+                      "highlight":  "FM-200 Clean Agent \u0026 Deluge System",
+                      "created_at":  "2026-09-17T08:32:00.600223Z"
+                  },
+                  {
+                      "id":  3,
+                      "images":  [
+                                     {
+                                         "id":  38,
+                                         "image":  "/images/lpg.jpg",
+                                         "caption":  "Main View"
+                                     }
+                                 ],
+                      "title":  "Rampal 1320 MW Ultra Supercritical Thermal Power Plant",
+                      "category":  "LPG Systems",
+                      "client":  "BIFPCL (Maitree Super Thermal Power Project)",
+                      "location":  "Rampal, Bagerhat",
+                      "scope":  "Heavy Gas Piping, Bulk LPG Storage Reticulation Station, and Class-1 Div-1 Explosion Proof Gas Leakage Detection System.",
+                      "year":  "2022",
+                      "image":  "/images/lpg.jpg",
+                      "featured":  true,
+                      "highlight":  "Bulk LPG Reticulation Station",
+                      "created_at":  "2026-09-17T08:32:00.597008Z"
+                  },
+                  {
+                      "id":  2,
+                      "images":  [
+                                     {
+                                         "id":  39,
+                                         "image":  "/images/boiler.jpg",
+                                         "caption":  "Main View"
+                                     }
+                                 ],
+                      "title":  "Radisson Blu Water Garden Hotel",
+                      "category":  "Mechanical",
+                      "client":  "Sena Hotel Developments Ltd.",
+                      "location":  "Airport Road, Dhaka",
+                      "scope":  "Central HVAC Hydronic Balancing, Precision Chilled Water Piping, and NFPA Kitchen Hood Wet Chemical Fire Suppression.",
+                      "year":  "2019",
+                      "image":  "/images/boiler.jpg",
+                      "featured":  true,
+                      "highlight":  "Precision Hydronic Balancing",
+                      "created_at":  "2026-09-17T08:32:00.594737Z"
+                  },
+                  {
+                      "id":  1,
+                      "images":  [
+                                     {
+                                         "id":  40,
+                                         "image":  "/images/hero.jpg",
+                                         "caption":  "Main View"
+                                     }
+                                 ],
+                      "title":  "Beximco Pharma High-Bay Warehouse \u0026 Production Facility",
+                      "category":  "Fire Safety",
+                      "client":  "Beximco Pharmaceuticals Ltd.",
+                      "location":  "Tongi, Gazipur",
+                      "scope":  "Turnkey NFPA 13 Automatic Sprinkler Deluge Network, 2500 GPM UL/FM Fire Pump Set, and Beam Smoke Detection.",
+                      "year":  "2021",
+                      "image":  "/images/hero.jpg",
+                      "featured":  true,
+                      "highlight":  "UL Listed 2500 GPM Fire Pump",
+                      "created_at":  "2026-09-17T08:32:00.591741Z"
+                  }
+              ],
+    "Count":  10
+}
